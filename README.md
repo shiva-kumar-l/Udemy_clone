@@ -110,46 +110,6 @@ The website is fully responsive and optimized for:
 - Footer
 
 ---
-
-## 🚀 Getting Started
-
-1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/udemy-clone.git
-```
-
-2. Open the project folder
-
-```bash
-cd udemy-clone
-```
-
-3. Open `index.html` in your browser.
-
-No additional dependencies or installation are required.
-
----
-
-## 📸 Preview
-
-*(Add screenshots of your project here.)*
-
-Example:
-
-```
-images/
-└── screenshot.png
-```
-
-Then include:
-
-```markdown
-![Udemy Clone Screenshot](images/screenshot.png)
-```
-
----
-
 ## 📚 Learning Outcomes
 
 Through this project, you will practice:
@@ -176,12 +136,4 @@ Through this project, you will practice:
 
 ---
 
-## 👨‍💻 Author
-
-Created as a front-end development practice project inspired by the Udemy homepage.
-
----
-
-## ⚠️ Disclaimer
-
-This project is created for **educational purposes only**. It is a static front-end clone inspired by the Udemy website and is not affiliated with or endorsed by Udemy.
+Udemy.
